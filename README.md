@@ -51,7 +51,7 @@ This project demonstrates:
 
 ## 🖼 Preview
 
-![Currency Converter Screenshot](picture.png)
+![Currency Converter Screenshot](screenshot.png)
 
 ---
 
@@ -59,3 +59,4 @@ This project demonstrates:
 **Chinmay Prakash Rout**  
 
 30 Days – 30 Projects | Day 2
+
