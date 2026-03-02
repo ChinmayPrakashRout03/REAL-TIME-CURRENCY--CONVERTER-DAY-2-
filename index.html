@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Currency Converter</title>
+
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Font Awesome for GitHub Icon -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+<div class="card">
+  <h1>Currency Converter</h1>
+  <p class="subtitle">Real-time exchange rates</p>
+
+  <div class="row">
+    <input type="number" id="amount" value="1" min="0" />
+    <select id="fromCurrency"></select>
+  </div>
+
+  <button id="convertBtn" class="convert-btn">Convert</button>
+
+  <div class="row">
+    <input type="text" id="result" placeholder="Result" disabled />
+    <select id="toCurrency"></select>
+  </div>
+
+  <p id="status">Ready</p>
+</div>
+
+<!-- Footer with GitHub icon -->
+<div class="footer">
+  <i class="fab fa-github"></i>
+  <a href="https://github.com/ChinmayPrakashRout03" target="_blank">
+    ChinmayPrakashRout03
+  </a>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
