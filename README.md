@@ -51,10 +51,11 @@ This project demonstrates:
 
 ## 🖼 Preview
 
-![Currency Converter Screenshot](screenshot.png)
+![Currency Converter Screenshot](picture.png)
 
 ---
 
 ## 👤 Author
 **Chinmay Prakash Rout**  
+
 30 Days – 30 Projects | Day 2
